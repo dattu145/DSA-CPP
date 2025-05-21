@@ -1,3 +1,8 @@
+// Two pointers
+// Time - O(n)	
+// Space - O(1)	
+// Intuition - Use two pointers to skip target elements and overwrite the array in-place
+
 #include <iostream>
 #include <vector>
 using namespace std;
