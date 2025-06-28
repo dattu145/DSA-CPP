@@ -1,4 +1,4 @@
-# 🚀 DSA + LeetCode in C++
+# DSA + LeetCode in C++
 
 Welcome to my **Data Structures and Algorithms (DSA)** learning repository!  
 Here, I practice and solve problems from **LeetCode** using **C++**, while building a strong foundation in DSA concepts.  
@@ -6,17 +6,17 @@ This repository is organized by topic-wise folders and includes explanations, co
 
 ---
 
-## 📌 What's in this Repo?
+## What's in this Repo?
 
-- ✅ **LeetCode Solutions** in C++
-- 📚 Topic-wise structured DSA concepts
-- 📂 Clean folder structure
-- 🧠 Learning notes and comments for understanding
-- 🚧 Updated regularly as I learn and grow
+-  **LeetCode Solutions** in C++
+-  Topic-wise structured DSA concepts
+-  Clean folder structure
+-  Learning notes and comments for understanding
+-  Updated regularly as I learn and grow
 
 ---
 
-## 📁 Structure
+##  Structure
 
 Easy/
 
@@ -48,7 +48,7 @@ Easy/
 
 ---
 
-## 📈 Goals
+##  Goals
 
 - Crack LeetCode 🔥
 - Build strong DSA problem-solving skills
@@ -57,7 +57,7 @@ Easy/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language**: C++
 - **Platform**: [LeetCode](https://leetcode.com/)
@@ -65,7 +65,7 @@ Easy/
 
 ---
 
-## 🧠 Study Plan
+##  Study Plan
 
 - Solve 1–2 DSA concepts per week
 - Daily LeetCode problems (Easy → Hard)
@@ -74,7 +74,7 @@ Easy/
 
 ---
 
-## 🌟 Connect with Me
+##  Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/datta-vignesh-b09437223/)
 - 📫 Mail: dattavignesh001@gmail.com
@@ -82,7 +82,7 @@ Easy/
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 This is my personal learning repo — but if you find bugs, improvements, or want to share better solutions, feel free to open issues or PRs!
 
